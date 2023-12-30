@@ -39,6 +39,7 @@ export default {
     }
 
     p{
+        font-family: sans-serif;
         margin-top: auto;
         margin-bottom: auto;
         color: gainsboro;
